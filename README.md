@@ -1,6 +1,6 @@
 ### Olá, eu sou a Ana Cristina👋
 
-- 🔭 Estou trabalhando atualmente com elicitação de requisitos
+- 🔭 Analista de requisitos Jr.
 - 💻 Sempre estudando tecnologias relacionadas a Back-end: javaScript, nodeJS, java.
 - 👩‍💻 "Dividir para conquistar"
 - 🎓 Discente de TI pela UFERSA
