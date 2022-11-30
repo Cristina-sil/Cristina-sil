@@ -4,7 +4,6 @@
 - 💻 Sempre estudando tecnologias relacionadas a Back-end: javaScript, nodeJS, java.
 - 👩‍💻 "Dividir para conquistar"
 - 🎓 Discente de TI pela UFERSA
-- 🚀 Participando do Bootcamp da DIO TQI Fullstack Developer
 
 <div align="center">
   <a href="https://github.com/Cristina-sil">
