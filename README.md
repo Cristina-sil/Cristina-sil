@@ -3,7 +3,8 @@
 - 🔭 Analista de requisitos Jr.
 - 💻 Dev back-end.
 - 👩‍💻 "Dividir para conquistar"
-- 🎓 Discente de TI pela UFERSA
+- 🎓 Bel em TI pela UFERSA;
+- - 🎓 Bacharelando em Eng. de Software UFERSA.
 
 <div align="center">
   <a href="https://github.com/Cristina-sil">
